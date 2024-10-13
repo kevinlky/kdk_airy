@@ -197,6 +197,7 @@ class KdkApiClient:
     SUPPORTED_PRODUCT_CODES = [
         "E48HP",
         "E48GP",
+        "K12UC"
     ]
 
     # Hard-coded values from the KDK Ceiling Fan app v1.1.0
